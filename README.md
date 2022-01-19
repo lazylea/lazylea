@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lazylea
+- 🌱 I’m currently learning javascript
